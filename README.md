@@ -25,7 +25,7 @@ This portfolio showcases my digital projects and the skills I gained during my s
    - Figma, Jira, UX methods & Visual design methods
    - Adobe Photoshop, Adobe Indesign, Adobe Illustrator
    - Knowledge about various project management methods
-   - Teamwork, communication, flexibility, ability to learn :)
+   - Teamwork, 4C's (communication, collaboration, creativity, critical thinking), flexibility, ability to learn :)
 
 
 _p.s.: some files may take longer to load._
